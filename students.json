@@ -1,0 +1,131 @@
+[{
+  "_id": "R-001",
+  "name": "Deepu",
+  "dateOfBirth": {
+    "$date": "2021-05-25T00:00:00Z"
+  },
+  "studentClass": "III",
+  "division": "A",
+  "gender": "Male",
+  "_class": "com.mozantatechnologies.student.model.StudentModel"
+},{
+  "_id": "R-002",
+  "name": "Deepu2",
+  "dateOfBirth": {
+    "$date": "2021-05-25T00:00:00Z"
+  },
+  "studentClass": "II",
+  "division": "A",
+  "gender": "Male",
+  "_class": "com.mozantatechnologies.student.model.StudentModel"
+},{
+  "_id": "R-003",
+  "name": "banu",
+  "dateOfBirth": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "studentClass": "XI",
+  "division": "B",
+  "gender": "Female",
+  "_class": "com.mozantatechnologies.student.model.StudentModel"
+},{
+  "_id": "R-004",
+  "name": "Deepak V",
+  "dateOfBirth": {
+    "$date": "2021-05-28T00:00:00Z"
+  },
+  "studentClass": "VIII",
+  "division": "C",
+  "gender": "Male",
+  "_class": "com.mozantatechnologies.student.model.StudentModel"
+},{
+  "_id": "R-005",
+  "name": "vetrivel",
+  "dateOfBirth": {
+    "$date": "2021-05-06T00:00:00Z"
+  },
+  "studentClass": "XII",
+  "division": "B",
+  "gender": "Male",
+  "_class": "com.mozantatechnologies.student.model.StudentModel"
+},{
+  "_id": "R-006",
+  "name": "banumathi",
+  "dateOfBirth": {
+    "$date": "2016-05-29T00:00:00Z"
+  },
+  "studentClass": "XI",
+  "division": "B",
+  "gender": "Female",
+  "_class": "com.mozantatechnologies.student.model.StudentModel"
+},{
+  "_id": "R-007",
+  "name": "banumathi",
+  "dateOfBirth": {
+    "$date": "2015-05-29T00:00:00Z"
+  },
+  "studentClass": "V",
+  "division": "B",
+  "gender": "Female",
+  "_class": "com.mozantatechnologies.student.model.StudentModel"
+},{
+  "_id": "R-008",
+  "name": "deepu",
+  "dateOfBirth": {
+    "$date": "2014-05-29T00:00:00Z"
+  },
+  "studentClass": "VII",
+  "division": "C",
+  "gender": "Male",
+  "_class": "com.mozantatechnologies.student.model.StudentModel"
+},{
+  "_id": "R-009",
+  "name": "banumathi",
+  "dateOfBirth": {
+    "$date": "2021-05-05T00:00:00Z"
+  },
+  "studentClass": "V",
+  "division": "A",
+  "gender": "Female",
+  "_class": "com.mozantatechnologies.student.model.StudentModel"
+},{
+  "_id": "R-010",
+  "name": "banumathi",
+  "dateOfBirth": {
+    "$date": "2021-05-01T00:00:00Z"
+  },
+  "studentClass": "II",
+  "division": "A",
+  "gender": "Female",
+  "_class": "com.mozantatechnologies.student.model.StudentModel"
+},{
+  "_id": "R-011",
+  "name": "kutti",
+  "dateOfBirth": {
+    "$date": "2021-05-05T00:00:00Z"
+  },
+  "studentClass": "III",
+  "division": "A",
+  "gender": "Male",
+  "_class": "com.mozantatechnologies.student.model.StudentModel"
+},{
+  "_id": "R-012",
+  "name": "banu",
+  "dateOfBirth": {
+    "$date": "2021-05-06T00:00:00Z"
+  },
+  "studentClass": "I",
+  "division": "A",
+  "gender": "Female",
+  "_class": "com.mozantatechnologies.student.model.StudentModel"
+},{
+  "_id": "R-013",
+  "name": "banumathi m",
+  "dateOfBirth": {
+    "$date": "2003-05-09T00:00:00Z"
+  },
+  "studentClass": "IV",
+  "division": "A",
+  "gender": "Female",
+  "_class": "com.mozantatechnologies.student.model.StudentModel"
+}]
